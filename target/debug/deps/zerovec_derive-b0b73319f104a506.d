@@ -1,0 +1,10 @@
+/Users/joaosousa/Repositories/rust-hello-world/target/debug/deps/libzerovec_derive-b0b73319f104a506.dylib: /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs
+
+/Users/joaosousa/Repositories/rust-hello-world/target/debug/deps/zerovec_derive-b0b73319f104a506.d: /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs /Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs
+
+/Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/lib.rs:
+/Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_ule.rs:
+/Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/make_varule.rs:
+/Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/ule.rs:
+/Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/utils.rs:
+/Users/joaosousa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/zerovec-derive-0.10.3/src/varule.rs:

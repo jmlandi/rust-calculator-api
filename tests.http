@@ -1,0 +1,53 @@
+###
+
+GET http://127.0.0.1:8080/ HTTP/1.1
+
+###
+
+POST http://127.0.0.1:8080/calculator/add HTTP/1.1
+content-type: application/json
+
+{
+    "a": 5,
+    "b": 5
+}
+
+###
+
+POST http://127.0.0.1:8080/calculator/sub HTTP/1.1
+content-type: application/json
+
+{
+    "a": 5,
+    "b": 5
+}
+
+###
+
+POST http://127.0.0.1:8080/calculator/mul HTTP/1.1
+content-type: application/json
+
+{
+    "a": 5,
+    "b": 5
+}
+
+###
+
+POST http://127.0.0.1:8080/calculator/div HTTP/1.1
+content-type: application/json
+
+{
+    "a": 5,
+    "b": 5
+}
+
+###
+
+POST http://127.0.0.1:8080/calculator/pow HTTP/1.1
+content-type: application/json
+
+{
+    "a": 5,
+    "b": 5
+}
