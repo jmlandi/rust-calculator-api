@@ -1,1 +1,0 @@
-/Users/joaosousa/Repositories/rust-hello-world/target/debug/rust-hello-world: /Users/joaosousa/Repositories/rust-hello-world/src/calculator/mod.rs /Users/joaosousa/Repositories/rust-hello-world/src/main.rs /Users/joaosousa/Repositories/rust-hello-world/src/routes.rs
