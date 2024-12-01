@@ -56,4 +56,4 @@ cargo run
 
 Remember: Just as a Jedi builds their lightsaber, we build our APIs with precision, care, and proper error handling!
 
-![Star Wars Gif](https://i.giphy.com/Dmydf2Zf2kOys.webp)
+<img src="https://i.giphy.com/Dmydf2Zf2kOys.webp" style="width: 100%;">
